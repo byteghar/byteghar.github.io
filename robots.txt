@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://byteghar.github.io/sitemap.xml
